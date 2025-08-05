@@ -1,0 +1,4 @@
+[submodule "sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-v2_ophys.nwb.zarr"]
+	path = sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-v2_ophys.nwb.zarr
+	url = https://github.com/dandizarrs/2f0c6b0f-dc77-4f99-8291-40182bb7c33d
+	datalad-id = 7ecf19fe-cac1-4aeb-8c29-0d1058277a20
