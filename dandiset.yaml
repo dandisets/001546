@@ -3,15 +3,22 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.10/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 4559131764
+  numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
-citation: O'Connell, Flynn (2025) Light beads - Kbarber 0727 (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/001546/draft
+  species: []
+  variableMeasured: []
+citation: O'Connell, Flynn (2025) Single Trial Raw Data for 2-Photon Optimized Light-Beads-Microscopy
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001546/draft
 contributor:
 - affiliation: []
   email: foconnell@rockefeller.edu
@@ -21,16 +28,20 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-08-05T19:56:00.683373+00:00'
-description: Test Dataset
+description: A single trial for the optimized Light Beads Microscopy 2-Photon Calcium
+  Imaging module at the Miller Brain Observatory, Rockefeller University.
+ethicsApproval: []
 id: DANDI:001546/draft
 identifier: DANDI:001546
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001546/versions/draft/assets/
-name: Light beads - Kbarber 0727
+name: Single Trial Raw Data for 2-Photon Optimized Light-Beads-Microscopy
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001546/draft
 version: draft
+wasGeneratedBy: []
