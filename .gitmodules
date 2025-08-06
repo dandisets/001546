@@ -6,3 +6,15 @@
 	path = sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-chunks-14-224-279-14_ophys.nwb.zarr
 	url = https://github.com/dandizarrs/a1f93cbf-fb83-4a02-a02b-e7b92d59fea0
 	datalad-id = 685f4b34-2acb-4866-83e9-a9cce4fdf1c2
+[submodule "sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-chunks-14-224-279-14-bug-interleaved_ophys.nwb.zarr"]
+	path = sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-chunks-14-224-279-14-bug-interleaved_ophys.nwb.zarr
+	url = https://github.com/dandizarrs/98973b7a-7453-4f4a-b736-b645e760ec6d
+	datalad-id = bb0819a9-4e37-43ed-9955-92a99dd80468
+[submodule "sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-v2-bug-interleaved_ophys.nwb.zarr"]
+	path = sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-v2-bug-interleaved_ophys.nwb.zarr
+	url = https://github.com/dandizarrs/83b481a9-366e-436c-82e3-1badf626c420
+	datalad-id = b12542f2-2242-49fd-b3fd-4c5202378988
+[submodule "sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-full-dataset_ophys.nwb.zarr"]
+	path = sub-mk355/sub-mk355_ses-mk355-07-27-2025/sub-mk355_ses-mk355-07-27-2025_desc-full-dataset_ophys.nwb.zarr
+	url = https://github.com/dandizarrs/50735875-8d6c-4f03-b56b-42edee43966a
+	datalad-id = f9af306e-f451-4e51-945a-bf09369f3e39
